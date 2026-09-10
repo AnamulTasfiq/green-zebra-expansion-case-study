@@ -3,16 +3,6 @@
 ## Overview
 This repository contains a strategic corporate finance case study evaluating the expansion options for Green Zebra Grocery, a Portland-based healthy convenience store startup. The analysis compares two distinct growth strategies: a conservative 1-store local expansion in Portland versus an aggressive 3-store regional expansion into Seattle backed by Venture Capital.
 
-## 📸 Excel Model Previews
-
-### 1. Financial Forecasting & EFN
-*Projected 5-year Income Statements and Balance Sheets to calculate External Financing Needed (EFN).*
-![Forecast Model](forecast-model.png)
-
-### 2. Investment Appraisal (NPV & IRR)
-*Evaluated the financial viability of both expansion scenarios using discounted cash flow metrics.*
-![NPV Model](npv-model.png)
-
 ## Key Areas of Analysis
 * **Financial Forecasting:** Built 5-year projections for Sales, COGS, EBITDA, and Net Income to determine cash burn and liquidity needs.
 * **Investment Appraisal:** Calculated Net Present Value (NPV), Internal Rate of Return (IRR), and Profitability Index (PI) for both expansion options.
